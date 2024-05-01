@@ -35,27 +35,29 @@ This project is a Streamlit application that allows users to stitch drone images
 4. View the stitched map, segmented water bodies, and water content information.
 
 ## Results:
-1. Home Page
-   ![image](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/ed5d39c3-2eb0-40ae-9999-728f41b81ae3)
 
-2. Map Stitching
-   Uploaded Images:
-   ![Screenshot 2024-01-07 110531](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/08450f90-a22b-4b49-bfb0-13a3aa4f51db)
-   ![Screenshot 2024-01-07 110554](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/86cd3ec0-170d-49a5-b60b-cfa1b63027b8)
-   ![Screenshot 2024-01-07 110544](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/c7698853-c805-4ee2-82f3-2e72deb1bbbb)
-   ![Screenshot 2024-01-07 110521](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/5c78c417-145e-463b-ac1d-6062ff176d4d)
+1. **Home Page**
+   <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/ed5d39c3-2eb0-40ae-9999-728f41b81ae3" width="500">
 
-   Result:
-   ![image](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/b793ab7d-6b08-43c5-95d1-3a7eac29d846)
+2. **Map Stitching**
+   **Uploaded Images:**
 
-3. Image Segmentation:
-   Uploaded Image:
-   ![image](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/6fbd9291-a31d-454d-8d2e-4988b880560b)
-   Result:
-   ![image](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d3e1b968-7af8-4d61-afe2-73e6840dbc60)
-   ![image](https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d68e0756-ce98-4fc7-925d-67ea8463a1d7)
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/08450f90-a22b-4b49-bfb0-13a3aa4f51db" width="200">
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/86cd3ec0-170d-49a5-b60b-cfa1b63027b8" width="200">
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/c7698853-c805-4ee2-82f3-2e72deb1bbbb" width="200">
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/5c78c417-145e-463b-ac1d-6062ff176d4d" width="200">
 
+   **Result:**
+   <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/b793ab7d-6b08-43c5-95d1-3a7eac29d846" width="500">
 
+3. **Image Segmentation**
+   **Uploaded Image:**
+   <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/6fbd9291-a31d-454d-8d2e-4988b880560b" width="500">
+
+   **Result:**
+
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d3e1b968-7af8-4d61-afe2-73e6840dbc60" width="250">
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d68e0756-ce98-4fc7-925d-67ea8463a1d7" width="250">
 
 ## Contributing
 
