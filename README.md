@@ -1,6 +1,6 @@
-# Drone Map Generator and Image Segmentation
+# Drone Map Stitcher and Image Segmentation
 
-This project is a Streamlit application that allows users to stitch drone images to generate maps and perform image segmentation to identify water bodies.
+This Streamlit application facilitates drone image stitching for map generation and image segmentation, primarily designed for flood surveillance in disaster-stricken areas. It serves as a crucial tool in scenarios where communication infrastructure is compromised due to natural calamities. Future iterations aim to integrate this functionality into autonomous drone systems.
 
 ## Features
 
