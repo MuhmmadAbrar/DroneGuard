@@ -59,8 +59,8 @@ This project is a Streamlit application that allows users to stitch drone images
 
    **Result:**
 
-   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d3e1b968-7af8-4d61-afe2-73e6840dbc60" width="350">
-   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d68e0756-ce98-4fc7-925d-67ea8463a1d7" width="350">
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d3e1b968-7af8-4d61-afe2-73e6840dbc60" width="500">
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/d68e0756-ce98-4fc7-925d-67ea8463a1d7" width="500">
 
 ## Contributing
 
