@@ -17,10 +17,10 @@ This project is a Streamlit application that allows users to stitch drone images
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/drone-map-generator.git`
+   `git clone https://github.com/MuhmmadAbrar/DroneGuard.git`
 
 2. Navigate to the project directory:
-   `cd drone-map-generator`
+   `cd DroneGuard`
 
 3. Install the required Python packages:
    `pip install -r requirements.txt`
