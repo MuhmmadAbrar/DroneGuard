@@ -37,7 +37,8 @@ This project is a Streamlit application that allows users to stitch drone images
 ## Results:
 
 1. **Home Page**
-   <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/ed5d39c3-2eb0-40ae-9999-728f41b81ae3" width="500">
+
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/ed5d39c3-2eb0-40ae-9999-728f41b81ae3" width="500">
 
 2. **Map Stitching**
    **Uploaded Images:**
@@ -48,11 +49,13 @@ This project is a Streamlit application that allows users to stitch drone images
    - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/5c78c417-145e-463b-ac1d-6062ff176d4d" width="200">
 
    **Result:**
-   <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/b793ab7d-6b08-43c5-95d1-3a7eac29d846" width="500">
+
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/b793ab7d-6b08-43c5-95d1-3a7eac29d846" width="500">
 
 3. **Image Segmentation**
    **Uploaded Image:**
-   <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/6fbd9291-a31d-454d-8d2e-4988b880560b" width="500">
+
+   - <img src="https://github.com/MuhmmadAbrar/DroneGuard/assets/88892675/6fbd9291-a31d-454d-8d2e-4988b880560b" width="500">
 
    **Result:**
 
