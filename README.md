@@ -4,9 +4,9 @@ This Streamlit application empowers users with vital capabilities for flood moni
 
 ## Features
 
-- Map stitching from multiple drone images
-- Water body segmentation using a custom-trained U-Net model
-- Visualization of segmented water bodies on the stitched map
+- Map stitching from multiple drone images.
+- Water body segmentation using a custom-trained U-Net model.
+- Visualization of segmented water bodies on the stitched map.
 - Display of water body coordinates.
 
 ## Prerequisites
