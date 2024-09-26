@@ -12,7 +12,7 @@ This Streamlit application empowers users with vital capabilities for flood moni
 ## Prerequisites
 
 - Python 3.6 or higher
-- Required Python packages listed in `requirements.txt`
+- Required Python packages listed in `requirements.txt`.
 
 ## Installation
 
